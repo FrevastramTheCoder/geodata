@@ -1,0 +1,12 @@
+export const ACADEMY_PROJECTS = [
+  { id: "ai-building-detection", title: "AI Building Detection", description: "Train or apply a computer vision workflow to identify buildings and communicate density or change.", tools: ["Python", "YOLO", "QGIS"], icon: "building" },
+  { id: "urban-expansion", title: "Urban Expansion Monitoring", description: "Combine satellite time series, built-up indices and change detection to explain urban growth.", tools: ["Google Earth Engine", "Landsat", "QGIS"], icon: "city" },
+  { id: "flood-risk", title: "Flood Risk Mapping", description: "Integrate terrain, rainfall, water observations and exposure data into a flood risk story.", tools: ["Sentinel-1", "Google Earth Engine", "PostGIS"], icon: "water" },
+  { id: "smart-city-dashboard", title: "Smart City Dashboard", description: "Build an interactive Web GIS dashboard for urban indicators, services or infrastructure decisions.", tools: ["React", "MapLibre", "PostGIS"], icon: "dashboard" },
+  { id: "real-estate-intelligence", title: "Real Estate Location Intelligence", description: "Score candidate sites with accessibility, demographics, market context and transparent spatial criteria.", tools: ["QGIS", "Python", "PostGIS"], icon: "location" },
+  { id: "3d-city-twin", title: "3D City Digital Twin", description: "Publish a navigable 3D city scene with buildings, terrain and a documented update workflow.", tools: ["CesiumJS", "3D Tiles", "CityGML"], icon: "building" },
+  { id: "ai-land-cover", title: "AI Land Cover Classification", description: "Prepare training data, compare classification models and assess land cover results with spatial context.", tools: ["Python", "Random Forest", "Sentinel-2"], icon: "satellite" },
+  { id: "drone-ai", title: "Drone Mapping + AI", description: "Move from UAV imagery through photogrammetry, detection, GIS analysis and a 3D or web output.", tools: ["UAV", "Photogrammetry", "Python"], icon: "drone" },
+  { id: "geospatial-chatbot", title: "Geospatial Chatbot", description: "Prototype a grounded assistant that translates a spatial question into data, analysis and an explainable response.", tools: ["LLM", "Python", "PostGIS"], icon: "brain" },
+  { id: "full-stack-web-gis", title: "Full-Stack Web GIS", description: "Build and deploy a complete Web GIS platform with a map client, spatial API, authentication and documentation.", tools: ["React", "FastAPI", "PostGIS"], icon: "globe" },
+];

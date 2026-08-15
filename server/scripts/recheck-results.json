@@ -1,0 +1,692 @@
+﻿[
+    {
+        "id":  "cmss7hku70010u72klkgteuhm",
+        "url":  "https://www.eorc.jaxa.jp/ALOS/en/aw3d30/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hkza0028u72k3kjdceov",
+        "url":  "https://au.int/en/ie/gmes-africa",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hl300036u72k91tskgr0",
+        "url":  "https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/en/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hl1g002su72klbvkc2e5",
+        "url":  "https://datacatalog.worldbank.org/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hl6w0044u72kcargdccl",
+        "url":  "https://eardhi.lands.go.tz/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hlfq006au72ks8vh8cz3",
+        "url":  "https://www.hydrosheds.org/products/lakeatlas",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlba0056u72k1vattavt",
+        "url":  "https://edo.jrc.ec.europa.eu/gdo/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hldy005uu72ky557o5w5",
+        "url":  "https://gshap.org/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hleu0062u72kcnyhztnd",
+        "url":  "https://globaldamwatch.org/grand/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hldb005ou72k7zm96k93",
+        "url":  "https://www.geoportal.org/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlem0060u72kg7ez53n9",
+        "url":  "https://www.bafg.de/GRDC/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hldj005qu72kraiqzp2q",
+        "url":  "https://www.bgs.ac.uk/africangroundwateratlas/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlfi0068u72kwkd7kfer",
+        "url":  "https://www.bgs.ac.uk/africangroundwateratlas/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlfa0066u72k2k3pib0d",
+        "url":  "https://www.un-igrac.org/global-groundwater-information-system",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlcn005iu72k935c9fa0",
+        "url":  "https://mrdata.usgs.gov/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hln30084u72ko7dftrj3",
+        "url":  "https://data.apps.fao.org/catalog/dataset/gaul",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlo7008eu72kyk74t7ur",
+        "url":  "https://sedac.ciesin.columbia.edu/data/sets/browsedata/set/gpw-v4-population-density-rev11",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlnb0086u72kck8u0zg3",
+        "url":  "https://cshapes.org/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlom008iu72k44nnn2xb",
+        "url":  "https://www.nbs.go.tz/index.php/en/census-surveys/census",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlnr008au72khp1rpvd7",
+        "url":  "https://www.worldpop.org/geodata/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlu6009wu72k338xg6aj",
+        "url":  "https://www.atlasofurbanexpansion.org/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlv200a4u72kgnho4rxh",
+        "url":  "https://ghsl.jrc.ec.europa.eu/ucdb.php",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hluu00a2u72k5bk6tuds",
+        "url":  "https://www.oecd.org/regional/regional-statistics/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqjc01fcu72kypp4phyw",
+        "url":  "https://www.sciencedirect.com/journal/remote-sensing-of-environment",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlp3008mu72k2jsmcyas",
+        "url":  "https://www.nbs.go.tz/index.php/en/census-surveys/nps",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmc700eau72kgl9nujpx",
+        "url":  "https://www.youtube.com/@Burgis",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmg200f8u72kswywreyv",
+        "url":  "https://www.youtube.com/@googleearthengine",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hn1c00kgu72k1wpqlyrc",
+        "url":  "https://www.youtube.com/@GeoGuru",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmjo00g4u72kfv74gjmf",
+        "url":  "https://www.youtube.com/@TheAestheticCity",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmir00fwu72k7ex2i2e2",
+        "url":  "https://www.youtube.com/@planetizen",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hml100ggu72kmqivck8x",
+        "url":  "https://www.youtube.com/@LearnGISandSurveying",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmmt00gwu72kzqjuxdk5",
+        "url":  "https://www.youtube.com/@nbstanzania",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmml00guu72kvyp0me76",
+        "url":  "https://www.youtube.com/@ardhitv6005",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmlp00gmu72k193en62y",
+        "url":  "https://www.youtube.com/@GeoPythonConf",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmn100gyu72kr1z9x3sb",
+        "url":  "https://www.youtube.com/@RCMRD",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmny00h6u72k7mim22e5",
+        "url":  "https://www.youtube.com/@johnjnelso",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmr400hyu72kqozxa7un",
+        "url":  "https://uk.sagepub.com/en-gb/eur/urban-planning-theory-since-1945/book234347",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmul00isu72k9h4g03a6",
+        "url":  "https://streetsblog.libsyn.com/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hmtg00iiu72k4aszvf2g",
+        "url":  "https://www.bloomberg.com/citylab",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmwd00j8u72k6z222kzw",
+        "url":  "https://afrigeo.org/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hn0000k4u72kb6blma6m",
+        "url":  "https://www.youtube.com/@Raster4ML",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hn0w00kcu72krr08dahw",
+        "url":  "https://www.youtube.com/@GISwithDrP",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hnad00mmu72k0lwgbnjz",
+        "url":  "https://www.youtube.com/@SpatialDataSciencewithR",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlkn007iu72krap0tapa",
+        "url":  "https://www.nbs.go.tz/index.php/en/census-surveys/census",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hnsy00r0u72k0ppiji64",
+        "url":  "https://www.fao.org/tenure/collection/sola/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hnqe00qeu72kwgfnqpoo",
+        "url":  "https://www.globallandcover.com/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hns900quu72k67i7znns",
+        "url":  "https://eardhi.lands.go.tz/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hnyq00seu72k1g4bpm6o",
+        "url":  "https://www.tanesco.co.tz/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hnzn00smu72koc2z6knm",
+        "url":  "https://www.tmcp.go.tz/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hnzf00sku72kp5cyc57n",
+        "url":  "https://www.rea.go.tz/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hnzv00sou72k46k0jmdr",
+        "url":  "https://mrdata.usgs.gov/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7ho3300tgu72kre3e3yqj",
+        "url":  "https://www.cifor-icraf.org/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7ho1800t0u72kwo11tzeu",
+        "url":  "https://www.ncaa.go.tz/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7ho1p00t4u72k7822cgoz",
+        "url":  "https://www.tawa.go.tz/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7ho7a00ugu72kjiz84pmy",
+        "url":  "https://sedac.ciesin.columbia.edu/data/set/groads-global-roads-open-access-v1",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7ho9k00v0u72kbislduau",
+        "url":  "https://www.mwt.go.tz/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7ho9s00v2u72kddb0tei9",
+        "url":  "https://konza.go.ke/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hoeg00w4u72kv62skggk",
+        "url":  "https://www.london.gov.uk/programmes-strategies/planning/london-plan",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hof300wau72k6xdvt9hr",
+        "url":  "https://formbasedcodes.org/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hoi300x2u72kjnbizlha",
+        "url":  "https://www.statistics.gov.rw/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hoir00x8u72kj5k0vf12",
+        "url":  "https://www.ins-congo.cd/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hogs00wqu72k37uhkhth",
+        "url":  "https://www.bl.uk/georeferencer/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hojf00xeu72kf4mtxt0t",
+        "url":  "https://www.ine.gov.mz/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hohm00wyu72kzc1h04fl",
+        "url":  "https://www.ubos.org/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hoki00xou72kg5weg5y1",
+        "url":  "https://www.rea.go.tz/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hlmv0082u72ku9e9x8ym",
+        "url":  "https://datacatalog.worldbank.org/search?search=\u0026q=boundaries",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hool00yqu72klsgdy277",
+        "url":  "https://www.wmf.org/project/tanzania-projects",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hos800zou72klu6dp7sy",
+        "url":  "https://www.tmcp.go.tz/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hoso00zsu72kx73mdqca",
+        "url":  "https://www.lvbwo.go.tz/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hos000zmu72k5nsds6yh",
+        "url":  "https://www.ncaa.go.tz/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlxj00aqu72ksukb514w",
+        "url":  "https://eardhi.lands.go.tz/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hmv100iwu72k4mhoov95",
+        "url":  "https://open.spotify.com/show/urbanplanningisnotboring",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hnxk00s4u72kadg2wgi3",
+        "url":  "https://www.trl.co.tz/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hquw01i4u72kwhjgkg69",
+        "url":  "https://www.cu.edu.eg/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hncf00n4u72kknb012v0",
+        "url":  "https://www.youtube.com/@BuildGreenCEE",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hnb100msu72kueiweum0",
+        "url":  "https://www.youtube.com/@TheAAG",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hogk00wou72kfrkpn0ab",
+        "url":  "https://cshapes.org/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqk001fiu72kflwn8gl8",
+        "url":  "https://www.sciencedirect.com/journal/land-use-policy",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7horl00ziu72kkcyuae6k",
+        "url":  "https://www.tawa.go.tz/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hoh700wuu72kq6cxx5fm",
+        "url":  "https://www.sok.go.ke/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hnau00mqu72kq3clve5n",
+        "url":  "https://www.youtube.com/@GISGeospatialEducation",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqiv01f8u72k9a0bn2zt",
+        "url":  "https://journals.sagepub.com/home/jpe",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqjk01feu72k3k761e9v",
+        "url":  "https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqjs01fgu72kzyj6d2bv",
+        "url":  "https://www.sciencedirect.com/journal/habitat-international",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqin01f6u72k20oecg04",
+        "url":  "https://www.sciencedirect.com/journal/landscape-and-urban-planning",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqj401fau72k9tc0m1qr",
+        "url":  "https://journals.sagepub.com/home/epb",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqow01gou72krwyykfid",
+        "url":  "https://ethz.ch/en/studies/master/geomatics.html",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqpc01gsu72kqi8fm0yd",
+        "url":  "https://www.helsinki.fi/en/admissions-and-education/apply-masters-programmes/geography",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqpl01guu72k0s1byw9s",
+        "url":  "https://www.tum.de/en/studies/degree-programs/master/geodesy-and-geoinformation",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqme01g2u72kapdb054j",
+        "url":  "https://www.researchgate.net/topic/GIS",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqtc01hqu72k2v2diq0j",
+        "url":  "https://www.tcu.go.tz/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hquo01i2u72kxjgtn9c2",
+        "url":  "https://www.jkuat.ac.ke/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hl81004eu72k1xc3wcij",
+        "url":  "https://au.int/en/ie/gmes-africa",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hl89004gu72khpbv4s2k",
+        "url":  "https://geoportal.rcmrd.org/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hl4k003ku72kmucu6z8q",
+        "url":  "https://sedac.ciesin.columbia.edu/data/sets/browse",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hlr30094u72kc5r6d4go",
+        "url":  "https://data.unep-wcmc.org/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hnyi00scu72k64qs5zrr",
+        "url":  "https://datacatalog.worldbank.org/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hlmn0080u72kx9hkt1n9",
+        "url":  "https://www.unsalb.org/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmdz00equ72kv0q82y80",
+        "url":  "https://www.youtube.com/@SalauddinAhmed",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmeo00ewu72k4cstst7m",
+        "url":  "https://www.youtube.com/@GeoPythonConf",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hmsc00i8u72k32dqm0ak",
+        "url":  "https://www.routledge.com/Urban-Planning-in-Africa/book-series/UPIA",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqqj01h2u72km3zjocsy",
+        "url":  "https://en.snu.ac.kr/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hqt401hou72kblmodb85",
+        "url":  "https://www.rcmrd.org/training/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hnpp00q8u72ktlq0tfqe",
+        "url":  "https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/en/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hnrj00qou72kn3rc3vw3",
+        "url":  "https://harvestchoice.org/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hoal00v8u72k4m484lzj",
+        "url":  "https://www.visioncity.rw/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hock00vou72kc5t2h2vy",
+        "url":  "https://www.songdo.com/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7ho5v00u4u72k81s61hcc",
+        "url":  "https://www.sumatra.go.tz/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7ho2u00teu72kbz8to6o7",
+        "url":  "https://www.cepf.net/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7ho4y00twu72ky8oaicd2",
+        "url":  "https://www.mwt.go.tz/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7ho0s00swu72kr9zyz144",
+        "url":  "https://globalenergymonitor.org/projects/global-fossil-infrastructure-tracker/",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hoh000wsu72kv8k1fu2x",
+        "url":  "https://www.knbs.or.ke/",
+        "reachable":  true,
+        "status":  200
+    },
+    {
+        "id":  "cmss7hqif01f4u72kx496g5oy",
+        "url":  "https://www.sciencedirect.com/journal/computers-environment-and-urban-systems",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hqi701f2u72ktrq0rl6a",
+        "url":  "https://www.tandfonline.com/toc/tres20/current",
+        "reachable":  false,
+        "status":  null
+    },
+    {
+        "id":  "cmss7hom000y2u72keq7p0o6z",
+        "url":  "https://www.stonetown.go.tz/",
+        "reachable":  false,
+        "status":  null
+    }
+]

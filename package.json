@@ -1,0 +1,22 @@
+{
+  "name": "tanzania-geodata-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "One Gateway to Geospatial Data",
+  "scripts": {
+    "install:all": "npm install --prefix client",
+    "dev": "npm run dev --prefix client",
+    "dev:client": "npm run dev --prefix client",
+    "dev:server": "npm run dev --prefix server",
+    "build": "npm run build --prefix client",
+    "start": "npm run preview --prefix client",
+    "lint": "npm run lint --prefix server && npm run lint --prefix client",
+    "typecheck": "npm run typecheck --prefix client",
+    "db:push": "npm run db:push --prefix server",
+    "db:seed": "npm run db:seed --prefix server",
+    "db:seed:software": "npm run db:seed:software --prefix server",
+    "ingest": "npm run ingest --prefix server --",
+    "ingest:all": "npm run ingest:all --prefix server",
+    "test": "npm run test --prefix server"
+  }
+}
